@@ -10,3 +10,4 @@ Uses Nornir and Cisco Genie parser to do 2 things:
  Primarily to be used as a crude IPv4 auditing tool.
  
  TODO: Integrate with IPAM to maintain IPAM DB accuracy.
+ TODO: Format data into CSV or Excel
