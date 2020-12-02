@@ -1,0 +1,21 @@
+---
+
+N7K1:
+  hostname: 192.168.101.3
+  platform: 'nxos'
+  data:
+    interfaces:
+      - Vlan11
+      - Vlan12
+      - Vlan13
+      - Vlan14
+      - Vlan15
+      - Vlan16
+      - Vlan17
+      - Vlan18
+      - Vlan19
+      - Vlan20
+
+N7K2:
+  hostname: 192.168.101.4
+  platform: 'nxos'
